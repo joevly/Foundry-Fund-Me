@@ -79,7 +79,6 @@ contract FundMeTest is Test {
         vm.prank(fundMe.getOwner());
         fundMe.withdraw(); // should have spent gas?
 
-
         // Assert
         uint256 endingOwnerBalance = fundMe.getOwner().balance;
         uint256 endingFundMeBalance = address(fundMe).balance;
@@ -102,7 +101,7 @@ contract FundMeTest is Test {
 
         uint256 startingOwnerBalance = fundMe.getOwner().balance;
         uint256 startingFundMeBalance = address(fundMe).balance;
-        
+
         // Act
         vm.startPrank(fundMe.getOwner());
         fundMe.withdraw();
