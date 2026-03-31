@@ -301,3 +301,11 @@ Project Link: [CHECK THE GITHUB REPOSITORY!](https://github.com/joevly/foundry-f
 * [Ethereum Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[Solidity]: https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white
+[Solidity-url]: https://soliditylang.org/
+[Foundry]: https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white
+[Foundry-url]: https://getfoundry.sh/
+[Chainlink]: https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white
+[Chainlink-url]: https://chain.link/
